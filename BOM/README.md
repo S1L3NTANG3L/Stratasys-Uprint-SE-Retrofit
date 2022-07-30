@@ -1,0 +1,1 @@
+The Bill of Materials is in SOUTH AFRICAN RANDS and contains some links to local suppliers, will update with international suppliers when I have time.

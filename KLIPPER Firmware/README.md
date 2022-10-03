@@ -9,6 +9,6 @@ Section "Monitor"</br>
 EndSection</br>
 `sudo service KlipperScreen restart`</br>
 `DISPLAY=:0 xinput`</br>
-`DISPLAY=:0 xinput set-prop "BIQU BTT-HDMI5" 'Coordinate Transformation Matrix' 0 -1 1 1 0 0 0 0 1`</br>
+`DISPLAY=:0 xinput set-prop "BIQU BTT-HDMI5" 'Coordinate Transformation Matrix' 0 1 0 -1 0 1 0 0 1`</br>
 `sudo service KlipperScreen restart`</br>
 ## Need to follow [this](https://github.com/bigtreetech/CB1/issues/44#issuecomment-1264733456) to get the gpio pins working if you get an parsing error.
